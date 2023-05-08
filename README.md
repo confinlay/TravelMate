@@ -1,2 +1,2 @@
-# SafeMapProject
-## This project has been disconnected from all cloud services so does not function, refer to the video which will be added in a couple of days for a demonstration of the app
+# TravelMate
+This repository contains a project I worked on as part of a "Software Design Analysis" module at University. I operated as one of 4 team leads amongst a group of 16 engineers developing an Android app for creating and sharing travel itineraries as well as conducting your travels safely. As the weeks went on, the division of labour became more sophisticated as individuals split off into UI design, DevOps and Engineering teams. The app was fully functional and included a backend database hosted on FireBase. 
